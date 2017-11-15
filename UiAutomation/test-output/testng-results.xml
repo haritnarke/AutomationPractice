@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\Users\madhav\git\UiAutomation\Screenshot\Browser_Initialised_1510490880554.png'> <img src='C:\Users\madhav\git\UiAutomation\Screenshot\Browser_Initialised_1510490880554.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\madhav\git\UiAutomation\Screenshot\Login_Done_1510490887900.png'> <img src='C:\Users\madhav\git\UiAutomation\Screenshot\Login_Done_1510490887900.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\madhav\git\UiAutomation\Screenshot\Order_Confirmation_1510490921696.png'> <img src='C:\Users\madhav\git\UiAutomation\Screenshot\Order_Confirmation_1510490921696.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\madhav\git\UiAutomation\Screenshot\LogOut_Done_1510490926000.png'> <img src='C:\Users\madhav\git\UiAutomation\Screenshot\LogOut_Done_1510490926000.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68374" started-at="2017-11-12T12:47:41Z" finished-at="2017-11-12T12:48:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68374" started-at="2017-11-12T12:47:41Z" finished-at="2017-11-12T12:48:50Z">
+      <class name="com.test.automation.UiAutomation.ProductDetails.TC0003_Shopping_And_Payment">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.UiAutomation.ProductDetails.TC0003_Shopping_And_Payment@11161c7]" name="setup" is-config="true" duration-ms="18721" started-at="2017-11-12T18:17:41Z" finished-at="2017-11-12T18:18:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\madhav\git\UiAutomation\Screenshot\Browser_Initialised_1510490880554.png'> <img src='C:\Users\madhav\git\UiAutomation\Screenshot\Browser_Initialised_1510490880554.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Shopping_Payment()[pri:0, instance:com.test.automation.UiAutomation.ProductDetails.TC0003_Shopping_And_Payment@11161c7]" name="Shopping_Payment" duration-ms="45519" started-at="2017-11-12T18:18:00Z" finished-at="2017-11-12T18:18:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\madhav\git\UiAutomation\Screenshot\Login_Done_1510490887900.png'> <img src='C:\Users\madhav\git\UiAutomation\Screenshot\Login_Done_1510490887900.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\madhav\git\UiAutomation\Screenshot\Order_Confirmation_1510490921696.png'> <img src='C:\Users\madhav\git\UiAutomation\Screenshot\Order_Confirmation_1510490921696.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\madhav\git\UiAutomation\Screenshot\LogOut_Done_1510490926000.png'> <img src='C:\Users\madhav\git\UiAutomation\Screenshot\LogOut_Done_1510490926000.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Shopping_Payment -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.UiAutomation.ProductDetails.TC0003_Shopping_And_Payment@11161c7]" name="endTest" is-config="true" duration-ms="4115" started-at="2017-11-12T18:18:46Z" finished-at="2017-11-12T18:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.automation.UiAutomation.ProductDetails.TC0003_Shopping_And_Payment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

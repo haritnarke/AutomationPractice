@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.test.automation.UiAutomation.custom.listner.Listner"/>
+  </listeners>
+  <test name="Testcases(failed)">
+    <classes>
+      <class name="com.test.automation.UiAutomation.ReadDataTest.TC0005_Register_Using_TestData_From_Excel">
+        <methods>
+          <include name="endTest"/>
+          <include name="register"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.test.automation.UiAutomation.ReadDataTest.TC0005_Register_Using_TestData_From_Excel -->
+    </classes>
+  </test> <!-- Testcases(failed) -->
+</suite> <!-- Failed suite [Suite] -->
